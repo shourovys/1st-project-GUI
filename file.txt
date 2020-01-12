@@ -1,6 +1,1 @@
-shourov ys,shourovys@gmail.com,22,Male,Student,yes
-shourov ys,shourovys@gmail.com,22,Male,Student,yes
-shourov,shourovys@gmail.com,22,Male,Student,No
-shourov,,,Male,,No
-sh,,,Male,,No
-,jj,,Male,,No
+
